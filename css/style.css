@@ -1,0 +1,37 @@
+body{
+  background-color:rgba(230,230,250,.5);
+}
+h1{
+  font-family:HelveticaNeue;
+  color:olivedrab;
+  font-size:43px;
+  font-style:oblique;
+}
+h2{
+  color:slategrey;
+  font-family:helvetica;
+}
+h3{
+  color:navy;
+  font-family:helvetica;
+}
+h4{
+  color:rgb(0,0,139);
+  font-weight:bold;
+  font-family:helvetica;
+  text-decoration:underline;
+}
+p{
+  color:#555555;
+  font-size:13px;
+  font-family:helvetica;
+ 
+}
+ul{
+  color:#555555;
+  font-family:helvetica;
+}
+ol{
+  color:#555555;
+  font-family:helvetica;
+}
